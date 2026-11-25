@@ -1,0 +1,73 @@
+{
+  "project": "Dragon Saga: Chronicles of Frailen",
+  "version": "0.5",
+  "goal": "Asset-ready foundation for high quality stylized dark fantasy graphics",
+  "target_style": "stylized premium dark fantasy MOBA quality, inspired by polished action-RPG visuals",
+  "engine_notes": {
+    "current_renderer": "custom WebGL2",
+    "planned_asset_format": "GLB",
+    "planned_animation_format": "rigged skeletal animation",
+    "mobile_budget": {
+      "main_character_triangles": 18000,
+      "enemy_character_triangles": 12000,
+      "boss_triangles": 26000,
+      "environment_prop_triangles": 6000
+    }
+  },
+  "entities": [
+    {
+      "id": "hero_master_loner",
+      "label": "Мастер Лонер",
+      "role": "hero",
+      "status": "pending_generation",
+      "file": "assets/models/master-loner.glb",
+      "animations": ["idle", "run", "attack", "cast", "dash", "hurt", "death"],
+      "prompt_file": "FAL_PROMPTS.txt#master-loner"
+    },
+    {
+      "id": "ally_alverin",
+      "label": "Альверин",
+      "role": "ally",
+      "status": "pending_generation",
+      "file": "assets/models/alverin.glb",
+      "animations": ["idle", "run", "cast", "hurt"],
+      "prompt_file": "FAL_PROMPTS.txt#alverin"
+    },
+    {
+      "id": "enemy_spider",
+      "label": "Паук Экеторна",
+      "role": "enemy",
+      "status": "pending_generation",
+      "file": "assets/models/eketorn-spider.glb",
+      "animations": ["idle", "walk", "attack", "hurt", "death"],
+      "prompt_file": "FAL_PROMPTS.txt#eketorn-spider"
+    },
+    {
+      "id": "enemy_warrior",
+      "label": "Воитель Экеторна",
+      "role": "enemy",
+      "status": "pending_generation",
+      "file": "assets/models/eketorn-warrior.glb",
+      "animations": ["idle", "walk", "attack", "hurt", "death"],
+      "prompt_file": "FAL_PROMPTS.txt#eketorn-warrior"
+    },
+    {
+      "id": "boss_varus",
+      "label": "Варус",
+      "role": "boss",
+      "status": "pending_generation",
+      "file": "assets/models/varus.glb",
+      "animations": ["idle", "walk", "attack", "cast", "hurt", "death"],
+      "prompt_file": "FAL_PROMPTS.txt#varus"
+    },
+    {
+      "id": "dragon_tyrus",
+      "label": "Тирус",
+      "role": "dragon",
+      "status": "pending_generation",
+      "file": "assets/models/tyrus.glb",
+      "animations": ["idle", "walk", "takeoff", "fly", "land", "breath", "roar"],
+      "prompt_file": "FAL_PROMPTS.txt#tyrus"
+    }
+  ]
+}

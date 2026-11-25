@@ -1,0 +1,17 @@
+# master-loner
+Stylized premium dark fantasy male hero for an isometric action RPG. Master Loner, ancient half-dragon scholar and swordsman. Mature noble face, dark hair with silver streaks, weathered pale skin, stern but wise expression. Layered navy cloak, dark leather armor, engraved silver shoulder guards, belts, runic details, travel boots, elegant longsword, readable heroic silhouette. High quality game-ready 3D character, clean topology, hand-painted plus PBR feel, richly detailed materials, stylized proportions like a premium MOBA or action RPG hero, optimized for mobile. Full body. Neutral A-pose. Separate cape and sword.
+
+# alverin
+Stylized premium dark fantasy female mage for an isometric action RPG. Alverin, white mage of Vilvarin and dragon enchanter. Elegant mature face, silver-blonde hair, pale skin, calm determined expression. Ivory and silver layered robes with subtle blue magical embroidery, leather belts, metallic ornaments, crystal staff emitting pale blue glow. High quality game-ready 3D character, clean topology, rich materials, readable silhouette for top-down/isometric gameplay, optimized for mobile. Full body. Neutral A-pose. Separate staff.
+
+# eketorn-spider
+Stylized dark fantasy spider monster for an isometric action RPG. Eketorn spider soldier with armored carapace, dark teal-black shell, glowing ember eyes, sharp fangs, battle-worn limbs, readable silhouette, frightening but clean design. High quality game-ready 3D enemy, stylized premium materials, optimized for mobile, full body, neutral pose.
+
+# eketorn-warrior
+Stylized dark fantasy humanoid spider cult warrior for an isometric action RPG. Eketorn warrior with segmented armor, chitin and dark steel mixture, pale scars, cruel expression, spear and blade, readable silhouette for gameplay. Premium game-ready 3D character, stylized, optimized for mobile, full body, neutral A-pose. Separate weapon.
+
+# varus
+Stylized premium dark fantasy boss for an isometric action RPG. Varus, vanguard of Eketorn. Tall imposing armored commander, mixture of humanoid and spider motifs, dark crimson and black armor, ceremonial spikes, glowing eyes, corrupted energy core, giant halberd. High quality boss-grade 3D model with strong silhouette, optimized for mobile, full body, A-pose, separate weapon.
+
+# tyrus
+Stylized premium dragon for an isometric action RPG. Tyrus, blue-bronze dragon of Frailen. Noble dragon with layered scales, horn crown, broad wings, bronze underplates, windswept magical energy around body, wise predatory face, long tail, readable silhouette from isometric camera. High quality game-ready 3D creature, optimized for mobile, full body, neutral grounded pose with wings half-open.
